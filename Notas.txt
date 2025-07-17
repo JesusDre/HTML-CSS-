@@ -1,0 +1,18 @@
+WWW.----- WORD WIDE WEB
+ENLACE = URL
+solicitud-->respuesta 
+
+<----ABOUT HTML CSS------>
+HTML ---> Lenguaje de marcado de hipertexto 
+Lenguaje de marcado --->  Escribir texto para interpretarlo más visual
+¿Que hace HTML?
+Armamos la estructura de la WEB
+
+Las propiedades son declaradas por el navegador
+CSS --->Hojas de estilo en cascada
+CSS ---> Sirve como reglas de estilo y modifica las propiedades
+
+index ---> la primer pagina que lee el servidor 
+En HTML todo funciona por etiquetas
+Cada etiqueta tiene un uso diferente a nivel semantico pero se pueden utilizar 
+para lo mismo 
