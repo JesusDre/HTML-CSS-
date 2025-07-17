@@ -4,3 +4,4 @@
 <li>Lista de items<li/>
 <ul>Listas desordenadas</ul>
 <a>ENLACES/URL</a>
+<img> Para cargar una imagen

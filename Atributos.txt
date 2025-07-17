@@ -3,3 +3,5 @@ href="Nombre.archivo"
 target="_self" abre en la misma pestaña
 target="_blank" abre en una nueva pestaña
 title="Una descripcion del elemento"
+src="Un recurso img"
+alr="Descripcion en caso de no cargar"
